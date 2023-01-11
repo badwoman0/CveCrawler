@@ -1,0 +1,13 @@
+{
+    "first_category":"CVE漏洞库",
+    "second_category":"WEB应用",
+    "name":"Atlassian Confluence 远程代码执行漏洞（CVE-2022-26134）",
+    "cve_code":"CVE-2022-26134",
+    "cwe":"cwe-74",
+    "foundtime":"2022-06-03",
+    "aliyunscore":"10.0",
+    "description":"漏洞描述",
+    "Repair_plan":"修复建议",
+    "reference":"参考链接"
+
+}
