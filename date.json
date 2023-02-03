@@ -1,0 +1,10 @@
+{
+    "name":"漏洞名称",
+    "tag":["文件上传","热点漏洞","etc"],
+    "rule":{
+        "ifmoudles":false,
+        "path":"code_path",
+        "rule":""
+    }
+    
+}
